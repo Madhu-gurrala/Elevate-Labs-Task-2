@@ -16,3 +16,8 @@ step-7: Loaded the clean data for analysis into the power bi desktop.
 step-8: Created a beautiful visualisations.
 # Out put
 "C:\Users\Madhu\Documents\Power Bi Projects\Super store Analysis Dashboard.pbix"
+# Insights
+1. South and central regions in the united sates effecting the superstore sales and profit.
+2. Most profit contributing segment is consumer and least is home and office.
+3. Most profit contributing state is California and city is losangeles.
+
